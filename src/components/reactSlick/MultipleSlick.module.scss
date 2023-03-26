@@ -1,0 +1,20 @@
+.slick-prev:before, .slick-next:before {
+    // font-family: 'slick';
+    font-size: 2.5rem;
+//    color: rgb(222, 40, 40);
+   background-color: rgb(150, 138, 150);
+   height: 40px;
+   border-radius: 50%;
+
+//    margin-bottom: 10px;
+    // line-height: 1;
+    // opacity: .75;
+    // color: white;
+}
+
+.style{
+//  margin-bottom: 10px;
+}
+.slick-prev:before{
+    margin-right: 10px;
+}
